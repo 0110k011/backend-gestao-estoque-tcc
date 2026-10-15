@@ -1,12 +1,12 @@
-#A.1 Instruções para execução do backend
+# A.1 Instruções para execução do backend
 
-##Passo 1 - Clonar o repositório
+## Passo 1 - Clonar o repositório
 
 git clone git@github.com:0110k011/backend-gestao-estoque-tcc.git
 ou
 git clone https://github.com/0110k011/backend-gestao-estoque-tcc.git
 
-##Passo 2 -  Executar a aplicação Spring Boot
+## Passo 2 -  Executar a aplicação Spring Boot
 
 ./mvnw spring-boot:run
 
